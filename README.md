@@ -49,11 +49,12 @@ Fora do trabalho, desenvolvo produtos próprios com a marca **Foratto**.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,vite,tailwind&theme=dark" alt="Linguagens e frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,githubactions,vercel&theme=dark" alt="Dados e infraestrutura" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,githubactions,vercel,aws&theme=dark" alt="Dados e infraestrutura" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square" alt="Oracle Cloud" />
 </p>
 
 ---
