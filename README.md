@@ -57,3 +57,13 @@ Conecto a operação de loja ao software: integrações entre sistemas, automaç
 | [**FOR3D**](https://for3d.com.br) | Gerenciador para impressão 3D: produtos, filamentos, produções e precificação | React · Vite |
 
 <sub>A maior parte do meu código é de uso interno e fica em repositórios privados.</sub>
+
+---
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foratto/foratto/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/foratto/foratto/output/github-contribution-grid-snake.svg"/>
+<img alt="Animação das contribuições" src="https://raw.githubusercontent.com/foratto/foratto/output/github-contribution-grid-snake.svg"/>
+</picture>
+</div>
