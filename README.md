@@ -1,69 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=180&section=header&text=Elton%20Foratto&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Especialista%20de%20TI%20%E2%80%A2%20Integra%C3%A7%C3%B5es%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Indie%20Dev&descSize=20&descAlignY=60" width="100%" alt="Elton Foratto" />
+## Elton Foratto
 
-<a href="https://linkedin.com/in/eltonforatto"><img src="https://img.shields.io/badge/LinkedIn-eltonforatto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://foratto.com.br"><img src="https://img.shields.io/badge/Site-foratto.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
-<img src="https://img.shields.io/badge/Campinas%2C%20SP-Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Campinas, SP" />
+**Especialista de TI · Integrações · Automação · Indie Dev**
+
+Conecto a operação de loja ao software: integrações entre sistemas, automação de processos e aplicações web sob medida.
+
+<a href="https://linkedin.com/in/eltonforatto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://foratto.com.br"><img src="https://img.shields.io/badge/foratto.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
 
 </div>
-
----
-
-### 👋 Sobre mim
-
-Sou **Especialista de TI no varejo supermercadista**. Trabalho no ponto onde a operação da loja encontra o software: sistemas de gestão, frente de caixa, integrações, automações e a infraestrutura que mantém tudo isso no ar.
-
-Fora do trabalho, desenvolvo produtos próprios com a marca **Foratto**.
-
-- 🏪 Integração entre ERP, frente de caixa e sistemas internos
-- ⚙️ Automação de processos e atendimento
-- 🐳 Infraestrutura com containers e serviços self-hosted
-- 🧩 Aplicações web com **FastAPI** + **React**
-
----
-
-### 🚀 O que eu costumo entregar
-
-| Tipo de projeto | Exemplo |
-|---|---|
-| 🔄 **Migração de sistemas** | Planejamento, ETL e virada de ERP em uma rede varejista multiloja |
-| ⏱️ **Fim de processos manuais** | Coleta automática de dados de equipamentos das lojas, substituindo rotinas feitas à mão |
-| 🧾 **Auditoria de integrações** | Painéis que mostram o que integrou, o que falhou e por quê, prontos para o fechamento |
-| 💬 **Atendimento integrado** | Canal de WhatsApp corporativo compartilhado entre setores, com envios automáticos |
-| 🩺 **Monitoramento** | Serviços críticos vigiados com alerta e recuperação automática |
-
----
-
-### 🛠️ Projetos Foratto
-
-| Projeto | O que é | Stack | Status |
-|---|---|---|---|
-| 📡 [**Radar Comunitário**](https://radarcomunitario.com.br) | PWA colaborativo de segurança de bairro: ocorrências geolocalizadas, mapa e feed em tempo real, botão SOS e notificações push | React 19 · TypeScript · Supabase · Leaflet | 🟢 No ar |
-| 🛡️ **Defensum** | SaaS de diagnóstico de segurança residencial por planta, croqui, fotos ou questionário | React 19 · Supabase · Stripe | 🟡 Em pausa |
-| 🖨️ **FOR3D** | App Android para custo e precificação de impressão 3D, com textos de divulgação gerados por IA | React · Vite · Capacitor · Gemini | 🟡 Em pausa |
 
 ---
 
 ### 🧰 Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,vite,tailwind&theme=dark" alt="Linguagens e frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,githubactions,vercel,aws&theme=dark" alt="Dados e infraestrutura" />
-</p>
+**Backend & Automação**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square" alt="Oracle Cloud" />
-</p>
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+**Dados & Infra**<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square" alt="Oracle Cloud" />
 
 ---
 
-<div align="center">
+### 🚀 O que eu faço
 
-**A maior parte do meu código é de uso interno e fica em repositórios privados.**<br/>
-Quer conversar sobre integração, automação ou um projeto? Me chama no [LinkedIn](https://linkedin.com/in/eltonforatto).
+- 🔄 Migração e integração de sistemas (ERP, frente de caixa, APIs)
+- ⏱️ Automação de rotinas manuais e coleta de dados
+- 📊 Painéis de auditoria e monitoramento com alerta automático
+- 💬 Atendimento e comunicação integrados ao WhatsApp
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
+---
 
-</div>
+### 🛠️ Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Radar Comunitário**](https://radarcomunitario.com.br) | Rede colaborativa de segurança de bairro: ocorrências no mapa em tempo real, botão SOS e notificações push | React · TypeScript · Supabase |
+| [**FOR3D**](https://for3d.com.br) | Gerenciador para impressão 3D: produtos, filamentos, produções e precificação | React · Vite |
+
+<sub>A maior parte do meu código é de uso interno e fica em repositórios privados.</sub>
